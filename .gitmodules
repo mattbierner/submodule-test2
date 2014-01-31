@@ -1,3 +1,3 @@
 [submodule "nu"]
 	path = nu
-	url = https://github.com/mattbierner/nu.git
+	url = git@github.com:mattbierner/nu.git
